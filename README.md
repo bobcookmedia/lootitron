@@ -1,0 +1,2 @@
+# lootitron
+loot priority system
